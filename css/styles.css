@@ -1,0 +1,116 @@
+Body {
+  background: #fafafa;
+  Font-size: 15px;
+  font-family: 'Poppins', sans-serif;
+}
+
+main {
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img{position: relative;}
+h2{
+  font-weight: 400;
+}
+
+/*****CLASS SELECTOR********/
+.pot{line-height:2;
+
+}
+.head {
+  text-align: center;
+  font-weight: 200;
+  font-family: 'Poppins', sans-serif;
+}
+
+.head2 {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+}
+
+.pot {
+  text-align: center;
+  width: 35%;
+  margin: auto;
+}
+
+.all {padding: 30px;
+
+}
+
+.teama {
+  background: white;
+  width: 25%;
+  height:300px;
+  border-radius: 10px;
+  border-top: solid;
+  border-top-color:hsl(180, 62%, 55%);
+  padding: 30px;
+  position: absolute;
+  left:50px;
+  bottom:-100px;
+
+  box-shadow: 5px 10px 18px #888888;
+}
+.imagea{position: absolute;
+  bottom: 30px;
+  right: 30px;
+}
+
+.teamb {
+  background: white;
+  width: 25%;
+  height: 300px;
+  border-radius: 10px;
+  border-top: solid;
+  border-top-color: hsl(0, 78%, 62%);
+  padding: 30px;
+  position: relative;
+  margin: 30px auto 40px auto ;
+  box-shadow: 5px 10px 18px #888888;
+
+
+}
+.imageb{position: absolute;
+  bottom: 30px;
+  right: 30px;
+}
+
+.teamc {
+  margin: auto;
+  background: white;
+  width: 25%;
+  height: 300px;
+  border-radius: 10px;
+  border-top: solid;
+  border-top-color: hsl(34, 97%, 64%);
+  padding: 30px;
+  position: relative;
+  box-shadow: 5px 10px 18px #888888;
+
+}
+.imagec{position: absolute;
+  bottom: 30px;
+  right: 30px;
+}
+
+.teamd {
+  background: white;
+  width: 25%;
+  height: 300px;
+  border-radius: 10px;
+  border-top: solid;
+  border-top-color: hsl(212, 86%, 64%);
+  padding: 30px;
+  position: absolute;
+  right: 50px;
+  bottom: -100px;
+  box-shadow: 5px 10px 18px #888888;
+
+}
+.imaged{position: absolute;
+  bottom: 30px;
+  right: 30px;
+}
